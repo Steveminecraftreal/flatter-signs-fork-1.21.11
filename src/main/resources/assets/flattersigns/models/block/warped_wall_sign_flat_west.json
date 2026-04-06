@@ -1,0 +1,43 @@
+{
+  "ambientocclusion": false,
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "tex": "minecraft:item/warped_sign",
+    "particle": "minecraft:item/warped_sign"
+  },
+  "elements": [
+    {
+      "from": [
+        15.95,
+        4.0,
+        0
+      ],
+      "to": [
+        16.0,
+        15.0,
+        16
+      ],
+      "shade": false,
+      "faces": {
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            11
+          ],
+          "texture": "#tex"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            11
+          ],
+          "texture": "#tex"
+        }
+      }
+    }
+  ]
+}

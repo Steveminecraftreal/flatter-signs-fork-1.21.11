@@ -1,0 +1,105 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "flattersigns:flat_models_enabled"
+    }
+  ],
+  "variants": {
+    "rotation=0,attached=true": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    },
+    "rotation=0,attached=false": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    },
+    "rotation=1,attached=true": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    },
+    "rotation=1,attached=false": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    },
+    "rotation=2,attached=true": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    },
+    "rotation=2,attached=false": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    },
+    "rotation=3,attached=true": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    },
+    "rotation=3,attached=false": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    },
+    "rotation=4,attached=true": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    },
+    "rotation=4,attached=false": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    },
+    "rotation=5,attached=true": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    },
+    "rotation=5,attached=false": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    },
+    "rotation=6,attached=true": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    },
+    "rotation=6,attached=false": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    },
+    "rotation=7,attached=true": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    },
+    "rotation=7,attached=false": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    },
+    "rotation=8,attached=true": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    },
+    "rotation=8,attached=false": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    },
+    "rotation=9,attached=true": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    },
+    "rotation=9,attached=false": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    },
+    "rotation=10,attached=true": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    },
+    "rotation=10,attached=false": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    },
+    "rotation=11,attached=true": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    },
+    "rotation=11,attached=false": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    },
+    "rotation=12,attached=true": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    },
+    "rotation=12,attached=false": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    },
+    "rotation=13,attached=true": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    },
+    "rotation=13,attached=false": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    },
+    "rotation=14,attached=true": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    },
+    "rotation=14,attached=false": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    },
+    "rotation=15,attached=true": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    },
+    "rotation=15,attached=false": {
+      "model": "flattersigns:block/warped_hanging_sign_flat"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.handlock_.flattersigns.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "flattersigns.refmap.json",
+  "mixins": [
+    "sign.SignBlockEntityFrontOnlyMixin",
+    "sign.AbstractSignBlockUseMixin",
+    "sign.SignBlockEntityDefaultColorMixin",
+    "block.BlockWithEntityRenderTypeMixin",
+    "block.WallSignBlockHitboxMixin",
+    "block.HangingSignBlockHitboxMixin",
+    "block.WallHangingSignBlockHitboxMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

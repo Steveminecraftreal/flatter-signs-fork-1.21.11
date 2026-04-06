@@ -1,0 +1,43 @@
+{
+  "ambientocclusion": false,
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "tex": "minecraft:item/spruce_sign",
+    "particle": "minecraft:item/spruce_sign"
+  },
+  "elements": [
+    {
+      "from": [
+        0.0,
+        4.0,
+        0
+      ],
+      "to": [
+        0.05,
+        15.0,
+        16
+      ],
+      "shade": false,
+      "faces": {
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            11
+          ],
+          "texture": "#tex"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            11
+          ],
+          "texture": "#tex"
+        }
+      }
+    }
+  ]
+}

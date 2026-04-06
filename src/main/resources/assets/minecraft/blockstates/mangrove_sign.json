@@ -1,0 +1,57 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "flattersigns:flat_models_enabled"
+    }
+  ],
+  "variants": {
+    "rotation=0": {
+      "model": "flattersigns:block/mangrove_sign_flat"
+    },
+    "rotation=1": {
+      "model": "flattersigns:block/mangrove_sign_flat"
+    },
+    "rotation=2": {
+      "model": "flattersigns:block/mangrove_sign_flat"
+    },
+    "rotation=3": {
+      "model": "flattersigns:block/mangrove_sign_flat"
+    },
+    "rotation=4": {
+      "model": "flattersigns:block/mangrove_sign_flat"
+    },
+    "rotation=5": {
+      "model": "flattersigns:block/mangrove_sign_flat"
+    },
+    "rotation=6": {
+      "model": "flattersigns:block/mangrove_sign_flat"
+    },
+    "rotation=7": {
+      "model": "flattersigns:block/mangrove_sign_flat"
+    },
+    "rotation=8": {
+      "model": "flattersigns:block/mangrove_sign_flat"
+    },
+    "rotation=9": {
+      "model": "flattersigns:block/mangrove_sign_flat"
+    },
+    "rotation=10": {
+      "model": "flattersigns:block/mangrove_sign_flat"
+    },
+    "rotation=11": {
+      "model": "flattersigns:block/mangrove_sign_flat"
+    },
+    "rotation=12": {
+      "model": "flattersigns:block/mangrove_sign_flat"
+    },
+    "rotation=13": {
+      "model": "flattersigns:block/mangrove_sign_flat"
+    },
+    "rotation=14": {
+      "model": "flattersigns:block/mangrove_sign_flat"
+    },
+    "rotation=15": {
+      "model": "flattersigns:block/mangrove_sign_flat"
+    }
+  }
+}

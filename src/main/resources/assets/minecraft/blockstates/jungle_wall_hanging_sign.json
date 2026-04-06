@@ -1,0 +1,21 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "flattersigns:flat_models_enabled"
+    }
+  ],
+  "variants": {
+    "facing=south": {
+      "model": "flattersigns:block/jungle_wall_hanging_sign_flat_x"
+    },
+    "facing=north": {
+      "model": "flattersigns:block/jungle_wall_hanging_sign_flat_x"
+    },
+    "facing=west": {
+      "model": "flattersigns:block/jungle_wall_hanging_sign_flat_z"
+    },
+    "facing=east": {
+      "model": "flattersigns:block/jungle_wall_hanging_sign_flat_z"
+    }
+  }
+}

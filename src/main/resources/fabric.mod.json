@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "flattersigns",
+  "version": "${version}",
+  "name": "Flatter Signs: A Mode 13h Addon",
+  "description": "A Fabric mod for Minecraft 1.20.1 that adds billboarding to signs when paired with the Mode 13h shaderpack.",
+  "authors": [
+    "HandLock_"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/project/flatter-signs",
+    "sources": "https://github.com/Hand-Lock/flatter-signs"
+  },
+  "license": "LGPL-3.0-or-later",
+  "icon": "assets/flattersigns/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.handlock_.flattersigns.FlatterSigns"
+    ],
+    "client": [
+      "com.handlock_.flattersigns.client.FlatterSignsClient"
+    ]
+  },
+  "mixins": [
+    "flattersigns.mixins.json",
+    {
+      "config": "flattersigns.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": "~1.21.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}
